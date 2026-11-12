@@ -14,5 +14,8 @@ four-digit groups, and comma-separated lists of whole amounts. The three
 functions return `None` on invalid input and the CLI shows an error message
 for the relevant prompt. Note counts and averages use integer division.
 
+The [lab report](Lab7_Fuzz_Testing_Report.pdf) contains screenshots of the
+application and Hypothesis runs before and after the fixes.
+
 The starter files came from the assigned
 [Lab 7 directory](https://github.com/SETAPESU26/L6_L7_18_atm_withdrawal/tree/3211240985b5070a8838544fcad13e5990c524d2/Lab%207).
